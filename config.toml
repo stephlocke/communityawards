@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://communityawards.netlify.com/"
 languageCode = "en-us"
 title = "Tech community awards"
 theme = "hugo_theme_robust"
